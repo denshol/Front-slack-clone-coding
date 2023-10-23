@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 강의교안 기여(Pull Request) 환영합니다.
 
 백엔드 강좌 강의교안은 [여기](https://github.com/ZeroCho/sleact/blob/master/nest-typeorm/README.md) 에 있습니다. 
@@ -171,3 +172,7 @@ MYSQL_PASSWORD=디비비번
 36. Channel Chat 보내보기
 37. 빌드 설정
 38. 빌드 결과물인 JS와 html을 서버개발자에게 전달하기
+=======
+# Front-slack-clone-coding
+slack + react
+>>>>>>> main
